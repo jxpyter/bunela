@@ -1,4 +1,5 @@
 # Bunela - Kelime Öğrenme Platformu
+Aralıklı tekrar (SM-2 algoritması) kullanarak İngilizce kelime öğrenmek için modern bir web uygulaması.
 
 ## Ekran Görüntüleri
 
@@ -13,8 +14,6 @@
 <img width="1920" height="1080" alt="Panel" src="https://github.com/user-attachments/assets/051e67f9-906f-40fd-a809-dfc5876bf5d7" />
 <img width="1920" height="1080" alt="AddWord" src="https://github.com/user-attachments/assets/41556f93-c44e-4f23-a866-7d99c3603702" />
 
-
-Aralıklı tekrar (SM-2 algoritması) kullanarak İngilizce kelime öğrenmek için modern bir web uygulaması.
 
 ## 🚀 Özellikler
 
