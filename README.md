@@ -1,5 +1,19 @@
 # Bunela - Kelime Öğrenme Platformu
 
+## Ekran Görüntüleri
+
+### Anasayfa
+<img width="1920" height="1080" alt="Homepage" src="https://github.com/user-attachments/assets/ce91d7ff-0535-40c8-98c7-3bd050eabe79" />
+<img width="1920" height="1080" alt="Homepage2" src="https://github.com/user-attachments/assets/d24f3713-f323-477d-b5f9-b6aabe09232f" />
+
+### Words
+<img width="1920" height="1080" alt="Words" src="https://github.com/user-attachments/assets/330eaa22-6c14-4844-b649-e140dd1c904c" />
+
+### Panel
+<img width="1920" height="1080" alt="Panel" src="https://github.com/user-attachments/assets/051e67f9-906f-40fd-a809-dfc5876bf5d7" />
+<img width="1920" height="1080" alt="AddWord" src="https://github.com/user-attachments/assets/41556f93-c44e-4f23-a866-7d99c3603702" />
+
+
 Aralıklı tekrar (SM-2 algoritması) kullanarak İngilizce kelime öğrenmek için modern bir web uygulaması.
 
 ## 🚀 Özellikler
