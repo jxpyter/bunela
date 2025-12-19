@@ -2,7 +2,7 @@
 
 A modern web application for learning English vocabulary using spaced repetition (SM-2 algorithm).
 
-## Ekran Görüntüleri
+## ScreenShots
 
 ### Anasayfa
 <img width="1920" height="1080" alt="Homepage" src="https://github.com/user-attachments/assets/ce91d7ff-0535-40c8-98c7-3bd050eabe79" />
