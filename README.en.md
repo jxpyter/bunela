@@ -4,7 +4,7 @@ A modern web application for learning English vocabulary using spaced repetition
 
 ## ScreenShots
 
-### Anasayfa
+### Homepage
 <img width="1920" height="1080" alt="Homepage" src="https://github.com/user-attachments/assets/ce91d7ff-0535-40c8-98c7-3bd050eabe79" />
 <img width="1920" height="1080" alt="Homepage2" src="https://github.com/user-attachments/assets/d24f3713-f323-477d-b5f9-b6aabe09232f" />
 
